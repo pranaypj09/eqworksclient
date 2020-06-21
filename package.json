@@ -1,0 +1,45 @@
+{
+  "name": "eqworksclient",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "bootstrap": "^4.5.0",
+    "google-map-react": "^1.1.7",
+    "moment": "^2.27.0",
+    "react": "^16.13.1",
+    "react-addons": "^0.9.1-deprecated",
+    "react-addons-test-utils": "^15.6.2",
+    "react-bootstrap": "^1.0.1",
+    "react-charts": "^2.0.0-beta.7",
+    "react-dom": "^16.13.1",
+    "react-google-maps": "^9.4.5",
+    "react-pure-render": "^1.0.2",
+    "react-scripts": "3.4.1",
+    "react-table": "^7.2.1",
+    "recharts": "^1.8.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

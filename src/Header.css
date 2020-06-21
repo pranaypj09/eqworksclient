@@ -1,0 +1,72 @@
+.component-header {
+
+    padding: 20px;
+    position: inherit;
+    font-weight: normal;
+    font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    text-align: center;
+    background-color: rgb(197, 198, 199);
+}
+
+.component-header img {
+    position: relative;
+    top: -16px;
+    padding: 0, 14px;
+    float: left;
+}
+
+.header-text{
+    color: white;
+}
+.component-body {
+    width: 80%;
+    height: 200px;
+    
+}
+.component-body-left-pane {
+    margin-top: -20px;
+    width: 195px;
+    float: left;
+    background-color: rgb(197, 198, 199);
+    height: 277%;
+}
+.component-body-left {
+    width: 190px;
+    float: left;
+}
+.component-body-right{
+    margin-top: 15px;
+    margin-left: 195px;
+    height: 200px;
+   
+}
+.margin-body {
+    margin-top: 10%;
+    margin-left: 6%;
+    margin-bottom: 25%;
+    font-family: sans-serif;
+}
+
+.label-out {
+    text-align: center;
+    color:darkgreen;
+    font-size: large;
+    
+}
+
+.label-inner{
+    margin-left: 5px;
+    color:darkgreen;
+    font-size:small;
+}
+
+.dataTable-marginLeft{
+    margin-left: 15px;
+}
+
+.map-loc {
+    margin-left: 50px;
+  }
+
+
