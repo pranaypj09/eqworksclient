@@ -13,7 +13,7 @@ class DataTable extends Component {
     
     renderMyData(){
       
-        fetch('https://pranaypj09-wsproduct.glitch.me/stats/daily')
+        fetch('https://pranaypj09-wsproduct-1.glitch.me/stats/daily')
             .then((response) => response.json())
             .then((responseJson) => {
               this.setState({ apiResponse : responseJson })
