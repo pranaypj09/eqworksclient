@@ -18,7 +18,7 @@ export default class ChartComponent extends Component {
     
     renderMyData(){
       
-        fetch('http://localhost:5555/'+this.state.chartType)
+        fetch('https://pranaypj09-wsproduct.glitch.me/'+this.state.chartType)
             .then((response) => response.json())
             .then((responseJson) => {
               this.setState({ apiResponse : responseJson })
