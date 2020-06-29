@@ -26,13 +26,13 @@
 }
 .component-body-left-pane {
     margin-top: -20px;
-    width: 195px;
+    width: 17%;
     float: left;
     background-color: rgb(197, 198, 199);
     height: 277%;
 }
 .component-body-left {
-    width: 190px;
+    width: 90%;
     float: left;
 }
 .component-body-right{
