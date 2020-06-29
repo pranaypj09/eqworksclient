@@ -35,8 +35,8 @@
     float: left;
 }
 .component-body-right{
-    margin-top: 15px;
-    margin-left: 195px;
+    margin-top: -45%;
+    margin-left: 20%;
     height: 200px;
    
 }
@@ -67,5 +67,8 @@
 .map-loc {
     margin-left: 50px;
   }
+
+
+
 
 
