@@ -44,7 +44,7 @@ export default class ShelterMap extends Component {
     }
   }
   componentDidMount() {
-    fetch("http://localhost:5555/poi")
+    fetch("https://pranaypj09-wsproduct.glitch.me/poi")
       .then(r => r.json())
       .then(data => {        
         this.setState({ shelters: data  });
